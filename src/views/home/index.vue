@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <HelloWorldVue />
+  <hello-world-vue />
 </template>
 
 <style lang="scss" scoped></style>
